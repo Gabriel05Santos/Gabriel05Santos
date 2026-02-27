@@ -33,4 +33,6 @@
 </div>
 
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/gabs05?theme=dark&font=Orbitron&ext=activity)
+<div align="left">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/gabs05?theme=dark&font=Ubuntu&ext=activity)
+</div>
