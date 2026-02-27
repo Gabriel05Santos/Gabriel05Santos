@@ -33,4 +33,4 @@
 </div>
 
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/Gabriel05Santos?theme=dark&font=Ubuntu&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gabs05?theme=dark&font=Ubuntu&ext=activity)
